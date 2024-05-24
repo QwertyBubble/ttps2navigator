@@ -28,3 +28,4 @@ Tutorial for using this scripts:
 >  -t TEMPLATE_FILE, --template_file TEMPLATE_FILE  Specify the ATT&CK Navigator layer .JSON template you would like to use
 >  -o OUTPUT_FILE, --output_file OUTPUT_FILE  Specify the file for the resulting template layer .JSON content
 >```
+![heatmap](/assets/images/heatmap.jpg)
