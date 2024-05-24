@@ -19,7 +19,7 @@ Tutorial for using this scripts:
 
 > [!NOTE]
 > ```
->usage: tech2attacknav.py [-h] -i INPUT_FILE -n NAME [-t TEMPLATE_FILE] [-o OUTPUT_FILE]
+>usage: to_navigator.py [-h] -i INPUT_FILE -n NAME [-t TEMPLATE_FILE] [-o OUTPUT_FILE]
 >
 >optional arguments:
 >  -h, --help            show this help message and exit
